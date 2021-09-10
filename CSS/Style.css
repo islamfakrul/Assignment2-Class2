@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+	box-sizing: border-box;
+}
+
+body{
+	margin: 0;
+	font-family: 'Poppins', sans-serif;
+}
+
+section{
+	padding: 70px 0px 70px 0px;
+}
+
+.Features{
+	text-align: center;
+	background-color: #ebebee;
+}
+
+.Features-container{
+	width: 60%;
+	margin: auto;
+	text-align: center;
+}
+
+.Features-P{
+    margin: auto;
+    padding-top: 20px;
+}
+
+.Key-Benefits-container1{
+	width: 76%;
+	margin: auto;
+	padding-bottom: 40px;
+}
+
+.Key-Benefits-row1{
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+}
+
+h4{
+	color: #4b4b4b;
+	margin: 0;
+	font-size: 16px;
+}
+
+h1{
+	font-size: 30px;
+	color: #4b4b4b;
+	margin: 0;
+	padding: 0px 0px 0px 0px;
+}
+
+p{
+	color: #4b4b4b;
+}
+
+img{
+	width: 100%;
+	height: 100%;
+}
+
+.column-1{
+	width: 50%;
+	box-sizing: border-box;
+	padding-right: 50px;
+	align-self: center;
+}
+
+.column-2{
+	width: 50%;
+	box-sizing: border-box;
+	padding-left: 50px;
+	align-self: center;
+}
+
+.Key-Benefits-container2{
+	width: 76%;
+	margin: auto;
+	padding-top: 40px;
+}
+
+.Key-Benefits-row2{
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+}
+
+.column-3{
+	width: 50%;
+	box-sizing: border-box;
+	padding-right: 50px;
+	align-self: center;
+}
+
+.column-4{
+	width: 50%;
+	box-sizing: border-box;
+	padding-left: 50px;
+	align-self: center;
+}
+
+.How-To{
+	background-color: #ebebee;
+}
+
+.How-To-container1{
+	width: 76%;
+	margin: auto;
+}
+
+.How-To-row1{
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+}
+
+.column-5 {
+    width: 40%;
+    align-self: center;
+    padding-right: 20px;
+	align-self: center;
+
+}
+
+.column-6 {
+    width: 60%;
+    align-self: center;
+    padding-left: 20px;
+	align-self: center;
+}
+
+.column-5 h2 {
+    font-weight: 400;
+    font-size: 34px;
+    color: #4b4b4b;
+    line-height: 46px;
+    margin: 15px 0px;
+}
+
+.column-5 h4 {
+    font-weight: 400;
+    font-size: 14px;
+    color: #4b4b4b;
+    letter-spacing: 4px;
+}
+
+.column-5 p {
+    font-size: 18px;
+    color: #4b4b4b;
+    word-spacing: 3px;
+}
+
+.column-6{
+	display: flex;
+    flex-wrap: wrap;
+}
+
+.image-1{
+	width: 50%;
+	border-radius: 20px;
+	transform: translate(50px, 50px);
+}
+
+.image-2{
+	width: 50%;
+	border-radius: 20px;
+}
+
